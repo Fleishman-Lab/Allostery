@@ -1,4 +1,4 @@
-% MATLAB Script to Compute the Solution for EA2B matrix
+% MATLAB Script to Compute the Solution for EA2B matrix by using Cramer's Rule
 
 % Symbolic variables
 syms k1 k_1 k2 k_2 k3 k_3 k4 k_4 k5 k_5 k6 k_6 k7 a b A B ET;
